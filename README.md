@@ -43,7 +43,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Pradumn's GitHub Stats" src="https://github-readme-stats.pradumn27.vercel.app/api?username=Pradumn27&show_icons=true&hide_border=true" />
+  [![Pradumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradumn27)](https://github.com/Pradumn27/github-readme-stats)
 
 </details>
 
