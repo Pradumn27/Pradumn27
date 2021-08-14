@@ -41,6 +41,7 @@
 <br />
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
 
   [![Pradumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradumn27)](https://github.com/Pradumn27/github-readme-stats)
 
