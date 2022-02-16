@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on building projects and contributing to organizations
 - 👯 I’m looking to connect with people worldwide
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play footbal and hit the gym
 
 ### Connect with me:
