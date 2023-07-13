@@ -2,12 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Pradumn27?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPradumn27&screen_name=Pradumn27)
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Full Stack Developer and Learner!!
 
-- 🌱 I’m currently working on building projects and contributing to organizations
+- 🌱 I’m currently working as a Software Engineer at Tealfeed
 - 👯 I’m looking to connect with people worldwide
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play footbal and hit the gym
+- 🥅 2023 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play football and hit the gym
 
 ### Connect with me:
 
