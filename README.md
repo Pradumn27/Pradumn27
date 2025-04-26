@@ -8,9 +8,9 @@
 
 ## I'm a Full Stack Developer and Learner!!
 
-- 🌱 I’m currently working as a Software Engineer at Tealfeed
+- 🌱 I’m currently working as a Software Engineer at Prashant Advait Foundation
 - 👯 I’m looking to connect with people worldwide
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play football and hit the gym
 
 ### Connect with me:
